@@ -1,0 +1,13 @@
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\bin\Debug\ProgramOlusturucuTest1.exe.config
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\bin\Debug\ProgramOlusturucuTest1.exe
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\bin\Debug\ProgramOlusturucuTest1.pdb
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.csproj.AssemblyReference.cache
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.Form1.resources
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.Form2.resources
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.Form3.resources
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.Form4.resources
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.Properties.Resources.resources
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.csproj.GenerateResource.cache
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.csproj.CoreCompileInputs.cache
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.exe
+C:\Users\orhan\Desktop\University\8.Dönem\Proje2\ProgramOlusturucuTest1\ProgramOlusturucuTest1\obj\Debug\ProgramOlusturucuTest1.pdb
